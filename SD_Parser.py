@@ -41,7 +41,7 @@ with open(input_file, 'r') as file:
         # Parse temperature, humidity, pressure, gas
         if line.startswith(('Temperature:', 'Humidity:', 'Pressure:', 'Gas:')):
             sensor_type, value = line.strip().split(': ')
-            data[sensor_type.lower()].append(['timestamp_placeholder', value])
+            data[sensor_type.lower()].append([value])
 
         # Parse ADC72 values
         elif line.startswith('ADC72 Values:'):
@@ -52,7 +52,7 @@ with open(input_file, 'r') as file:
                     channel_num = match.group(1)
                     data_key = f'adc72_channel_{channel_num}'
                     if data_key in data:
-                        data[data_key].append(['timestamp_placeholder', match.group(2)])
+                        data[data_key].append([match.group(2)])
                     else:
                         print(f"Error: Data key '{data_key}' not found.")
                 else:
@@ -67,7 +67,7 @@ with open(input_file, 'r') as file:
                     channel_num = match.group(1)
                     data_key = f'adc73_channel_{channel_num}'
                     if data_key in data:
-                        data[data_key].append(['timestamp_placeholder', match.group(2)])
+                        data[data_key].append([match.group(2)])
                     else:
                         print(f"Error: Data key '{data_key}' not found.")
                 else:
@@ -77,7 +77,7 @@ with open(input_file, 'r') as file:
 for sensor_type, rows in data.items():
     with open(output_files[sensor_type], 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['timestamp', 'value'])  # Write header
+        writer.writerow(['value'])  # Write header
         writer.writerows(rows)
 
 print("Data parsing and writing to CSV files completed successfully.")
