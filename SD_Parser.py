@@ -82,3 +82,4 @@ for sensor_type, rows in data.items():
         writer.writerows(rows)
 
 print("Data parsing and writing to CSV files completed successfully.")
+#fuckyou
