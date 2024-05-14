@@ -1,0 +1,180 @@
+Temperature: 32.8987 C
+Humidity: 100 %
+Pressure: 632.22 hPa
+Gas: 8741 Ohms
+ADC72 Values:
+Channel 0: 29623
+Channel 1: 10579
+Channel 2: 29808
+Channel 3: 3927
+ADC73 Values:
+Channel 0: 1027
+Channel 1: 911
+Channel 2: 4210
+Channel 3: 1489
+
+Temperature: 30.49 C
+Humidity: 32.3431 %
+Pressure: 987.445 hPa
+Gas: 4479 Ohms
+ADC72 Values:
+Channel 0: 29633
+Channel 1: 10579
+Channel 2: 29793
+Channel 3: 3927
+ADC73 Values:
+Channel 0: 1026
+Channel 1: 914
+Channel 2: 4229
+Channel 3: 1489
+
+Temperature: 30.5228 C
+Humidity: 32.3191 %
+Pressure: 987.437 hPa
+Gas: 6297 Ohms
+ADC72 Values:
+Channel 0: 29613
+Channel 1: 10569
+Channel 2: 29793
+Channel 3: 3927
+ADC73 Values:
+Channel 0: 1027
+Channel 1: 914
+Channel 2: 4211
+Channel 3: 1489
+
+Temperature: 30.5571 C
+Humidity: 32.2735 %
+Pressure: 987.429 hPa
+Gas: 7846 Ohms
+ADC72 Values:
+Channel 0: 29633
+Channel 1: 10564
+Channel 2: 29793
+Channel 3: 3957
+ADC73 Values:
+Channel 0: 1024
+Channel 1: 912
+Channel 2: 4203
+Channel 3: 1495
+
+Temperature: 30.5868 C
+Humidity: 32.2111 %
+Pressure: 987.419 hPa
+Gas: 9132 Ohms
+ADC72 Values:
+Channel 0: 29613
+Channel 1: 10549
+Channel 2: 29793
+Channel 3: 3987
+ADC73 Values:
+Channel 0: 1026
+Channel 1: 914
+Channel 2: 4202
+Channel 3: 1489
+
+Temperature: 30.6099 C
+Humidity: 32.1211 %
+Pressure: 987.414 hPa
+Gas: 10214 Ohms
+ADC72 Values:
+Channel 0: 29613
+Channel 1: 10549
+Channel 2: 29793
+Channel 3: 3972
+ADC73 Values:
+Channel 0: 1026
+Channel 1: 913
+Channel 2: 4226
+Channel 3: 1487
+
+Temperature: 30.6277 C
+Humidity: 32.036 %
+Pressure: 987.41 hPa
+Gas: 11165 Ohms
+ADC72 Values:
+Channel 0: 29623
+Channel 1: 12542
+Channel 2: 29803
+Channel 3: 1843
+ADC73 Values:
+Channel 0: 1027
+Channel 1: 914
+Channel 2: 7262
+Channel 3: 1570
+
+Temperature: 30.6757 C
+Humidity: 32.5399 %
+Pressure: 987.418 hPa
+Gas: 10083 Ohms
+ADC72 Values:
+Channel 0: 29613
+Channel 1: 12222
+Channel 2: 29811
+Channel 3: 2765
+ADC73 Values:
+Channel 0: 1025
+Channel 1: 910
+Channel 2: 6465
+Channel 3: 1678
+
+Temperature: 30.7073 C
+Humidity: 35.7078 %
+Pressure: 987.43 hPa
+Gas: 12135 Ohms
+ADC72 Values:
+Channel 0: 29613
+Channel 1: 11851
+Channel 2: 29793
+Channel 3: 2504
+ADC73 Values:
+Channel 0: 1031
+Channel 1: 910
+Channel 2: 5441
+Channel 3: 1782
+
+Temperature: 30.6593 C
+Humidity: 38.4631 %
+Pressure: 987.431 hPa
+Gas: 12758 Ohms
+ADC72 Values:
+Channel 0: 29613
+Channel 1: 12560
+Channel 2: 29793
+Channel 3: 2204
+ADC73 Values:
+Channel 0: 1030
+Channel 1: 913
+Channel 2: 7102
+Channel 3: 1867
+
+Temperature: 30.6468 C
+Humidity: 40.8109 %
+Pressure: 987.428 hPa
+Gas: 13021 Ohms
+ADC72 Values:
+Channel 0: 29613
+Channel 1: 12021
+Channel 2: 29793
+Channel 3: 3101
+ADC73 Values:
+Channel 0: 1028
+Channel 1: 908
+Channel 2: 5743
+Channel 3: 1922
+
+Temperature: 30.6464 C
+Humidity: 43.3736 %
+Pressure: 987.429 hPa
+Gas: 14237 Ohms
+ADC72 Values:
+Channel 0: 29613
+Channel 1: 11621
+Channel 2: 29793
+Channel 3: 3682
+ADC73 Values:
+Channel 0: 1028
+Channel 1: 906
+Channel 2: 5179
+Channel 3: 1955
+
