@@ -63,14 +63,14 @@ data = {
 
 # Define min/max PPM values for each ADC channel (these should be adjusted as needed)
 ppm_ranges = {
-    'adc72_channel_0': {'min': 0, 'max': 100},
-    'adc72_channel_1': {'min': 0, 'max': 100},
-    'adc72_channel_2': {'min': 0, 'max': 100},
-    'adc72_channel_3': {'min': 0, 'max': 100},
-    'adc73_channel_0': {'min': 0, 'max': 100},
-    'adc73_channel_1': {'min': 0, 'max': 100},
-    'adc73_channel_2': {'min': 0, 'max': 100},
-    'adc73_channel_3': {'min': 0, 'max': 100}
+    'adc72_channel_0': {'min': 10, 'max': 1000}, #O3
+    'adc72_channel_1': {'min': 300, 'max': 10000}, #CH4
+    'adc72_channel_2': {'min': 0.05, 'max': 10}, #NO2
+    'adc72_channel_3': {'min': 1, 'max': 500}, #NH3
+    'adc73_channel_0': {'min': 1, 'max': 1000}, #CO
+    'adc73_channel_1': {'min': 1, 'max': 100}, #NOx
+    'adc73_channel_2': {'min': 10, 'max': 10000}, #CO2
+    'adc73_channel_3': {'min': 0, 'max': 0}  #NC - not connected
 }
 
 def adc_to_ppm(adc_value, min_ppm, max_ppm):
