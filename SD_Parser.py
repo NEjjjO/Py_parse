@@ -4,20 +4,19 @@ import re
 # Define the input and output file paths
 input_file = 'sensor_data.txt'
 
-
 output_files = {
     'temperature': 'temperature_data.csv',
     'humidity': 'humidity_data.csv',
     'pressure': 'pressure_data.csv',
     'gas': 'gas_data.csv',
+    'adc72_channel_0': 'adc72_channel_0.csv',
     'adc72_channel_1': 'adc72_channel_1.csv',
     'adc72_channel_2': 'adc72_channel_2.csv',
     'adc72_channel_3': 'adc72_channel_3.csv',
-    'adc72_channel_4': 'adc72_channel_4.csv',
+    'adc73_channel_0': 'adc73_channel_0.csv',
     'adc73_channel_1': 'adc73_channel_1.csv',
     'adc73_channel_2': 'adc73_channel_2.csv',
-    'adc73_channel_3': 'adc73_channel_3.csv',
-    'adc73_channel_4': 'adc73_channel_4.csv'
+    'adc73_channel_3': 'adc73_channel_3.csv'
 }
 
 # Initialize dictionaries to store data
@@ -26,14 +25,14 @@ data = {
     'humidity': [],
     'pressure': [],
     'gas': [],
+    'adc72_channel_0': [],
     'adc72_channel_1': [],
     'adc72_channel_2': [],
     'adc72_channel_3': [],
-    'adc72_channel_4': [],
+    'adc73_channel_0': [],
     'adc73_channel_1': [],
     'adc73_channel_2': [],
-    'adc73_channel_3': [],
-    'adc73_channel_4': []
+    'adc73_channel_3': []
 }
 
 # Read the input file and parse the data
@@ -82,4 +81,3 @@ for sensor_type, rows in data.items():
         writer.writerows(rows)
 
 print("Data parsing and writing to CSV files completed successfully.")
-#fuckyou<3
