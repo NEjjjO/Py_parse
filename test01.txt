@@ -1,0 +1,576 @@
+Temperature: 28.30559 C
+Humidity: 44.44304 %
+Pressure: 977.2891 hPa
+Gas: 36311 Ohms
+ADC1 Channel 0: 29410
+ADC1 Channel 1: 1617
+ADC1 Channel 2: 29681
+ADC1 Channel 3: 3057
+ADC2 Channel 0: 1538
+ADC2 Channel 1: 1469
+ADC2 Channel 2: 3847
+ADC2 Channel 3: 2022
+Temperature: 28.38078 C
+Humidity: 44.47557 %
+Pressure: 977.1481 hPa
+Gas: 34880 Ohms
+ADC1 Channel 0: 29413
+ADC1 Channel 1: 1608
+ADC1 Channel 2: 29682
+ADC1 Channel 3: 3066
+ADC2 Channel 0: 1551
+ADC2 Channel 1: 1484
+ADC2 Channel 2: 3866
+ADC2 Channel 3: 1996
+Temperature: 28.43879 C
+Humidity: 44.27249 %
+Pressure: 977.1728 hPa
+Gas: 39067 Ohms
+ADC1 Channel 0: 29406
+ADC1 Channel 1: 1606
+ADC1 Channel 2: 29686
+ADC1 Channel 3: 3078
+ADC2 Channel 0: 1554
+ADC2 Channel 1: 1468
+ADC2 Channel 2: 3858
+ADC2 Channel 3: 1997
+Temperature: 28.49172 C
+Humidity: 44.05747 %
+Pressure: 977.171 hPa
+Gas: 44219 Ohms
+ADC1 Channel 0: 29403
+ADC1 Channel 1: 1607
+ADC1 Channel 2: 29683
+ADC1 Channel 3: 3084
+ADC2 Channel 0: 1534
+ADC2 Channel 1: 1453
+ADC2 Channel 2: 3865
+ADC2 Channel 3: 1989
+Temperature: 28.41145 C
+Humidity: 44.33347 %
+Pressure: 977.1477 hPa
+Gas: 36794 Ohms
+ADC1 Channel 0: 29411
+ADC1 Channel 1: 1607
+ADC1 Channel 2: 29692
+ADC1 Channel 3: 3077
+ADC2 Channel 0: 1533
+ADC2 Channel 1: 1477
+ADC2 Channel 2: 3858
+ADC2 Channel 3: 1989
+Temperature: 28.55812 C
+Humidity: 44.00656 %
+Pressure: 977.1058 hPa
+Gas: 22515 Ohms
+ADC1 Channel 0: 29418
+ADC1 Channel 1: 2270
+ADC1 Channel 2: 29691
+ADC1 Channel 3: 3938
+ADC2 Channel 0: 2205
+ADC2 Channel 1: 2115
+ADC2 Channel 2: 4473
+ADC2 Channel 3: 2608
+Temperature: 27.63684 C
+Humidity: 48.20147 %
+Pressure: 977.2855 hPa
+Gas: 12276 Ohms
+ADC1 Channel 0: 29266
+ADC1 Channel 1: 1948
+ADC1 Channel 2: 29556
+ADC1 Channel 3: 3241
+ADC2 Channel 0: 1875
+ADC2 Channel 1: 1838
+ADC2 Channel 2: 4369
+ADC2 Channel 3: 2362
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29350
+ADC1 Channel 1: 2065
+ADC1 Channel 2: 29649
+ADC1 Channel 3: 3119
+ADC2 Channel 0: 1925
+ADC2 Channel 1: 1922
+ADC2 Channel 2: 4552
+ADC2 Channel 3: 2640
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29356
+ADC1 Channel 1: 2064
+ADC1 Channel 2: 29643
+ADC1 Channel 3: 3125
+ADC2 Channel 0: 1921
+ADC2 Channel 1: 1927
+ADC2 Channel 2: 4551
+ADC2 Channel 3: 2647
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29367
+ADC1 Channel 1: 2060
+ADC1 Channel 2: 29651
+ADC1 Channel 3: 3106
+ADC2 Channel 0: 1918
+ADC2 Channel 1: 1926
+ADC2 Channel 2: 4549
+ADC2 Channel 3: 2646
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29370
+ADC1 Channel 1: 2062
+ADC1 Channel 2: 29655
+ADC1 Channel 3: 3111
+ADC2 Channel 0: 1944
+ADC2 Channel 1: 1924
+ADC2 Channel 2: 4553
+ADC2 Channel 3: 2641
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29358
+ADC1 Channel 1: 2062
+ADC1 Channel 2: 29644
+ADC1 Channel 3: 3108
+ADC2 Channel 0: 1909
+ADC2 Channel 1: 1929
+ADC2 Channel 2: 4557
+ADC2 Channel 3: 2639
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29371
+ADC1 Channel 1: 2062
+ADC1 Channel 2: 29643
+ADC1 Channel 3: 3114
+ADC2 Channel 0: 1932
+ADC2 Channel 1: 1923
+ADC2 Channel 2: 4557
+ADC2 Channel 3: 2650
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29371
+ADC1 Channel 1: 2063
+ADC1 Channel 2: 29650
+ADC1 Channel 3: 3103
+ADC2 Channel 0: 1925
+ADC2 Channel 1: 1928
+ADC2 Channel 2: 4555
+ADC2 Channel 3: 2641
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29369
+ADC1 Channel 1: 2061
+ADC1 Channel 2: 29643
+ADC1 Channel 3: 3118
+ADC2 Channel 0: 1930
+ADC2 Channel 1: 1929
+ADC2 Channel 2: 4564
+ADC2 Channel 3: 2645
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29367
+ADC1 Channel 1: 2060
+ADC1 Channel 2: 29657
+ADC1 Channel 3: 3107
+ADC2 Channel 0: 1925
+ADC2 Channel 1: 1922
+ADC2 Channel 2: 4563
+ADC2 Channel 3: 2643
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29365
+ADC1 Channel 1: 2061
+ADC1 Channel 2: 29651
+ADC1 Channel 3: 3113
+ADC2 Channel 0: 1930
+ADC2 Channel 1: 1929
+ADC2 Channel 2: 4567
+ADC2 Channel 3: 2647
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29357
+ADC1 Channel 1: 2061
+ADC1 Channel 2: 29651
+ADC1 Channel 3: 3109
+ADC2 Channel 0: 1925
+ADC2 Channel 1: 1926
+ADC2 Channel 2: 4573
+ADC2 Channel 3: 2639
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29370
+ADC1 Channel 1: 2063
+ADC1 Channel 2: 29643
+ADC1 Channel 3: 3111
+ADC2 Channel 0: 1935
+ADC2 Channel 1: 1927
+ADC2 Channel 2: 4573
+ADC2 Channel 3: 2633
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29366
+ADC1 Channel 1: 2064
+ADC1 Channel 2: 29648
+ADC1 Channel 3: 3106
+ADC2 Channel 0: 1926
+ADC2 Channel 1: 1924
+ADC2 Channel 2: 4574
+ADC2 Channel 3: 2636
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29362
+ADC1 Channel 1: 2064
+ADC1 Channel 2: 29661
+ADC1 Channel 3: 3121
+ADC2 Channel 0: 1928
+ADC2 Channel 1: 1925
+ADC2 Channel 2: 4579
+ADC2 Channel 3: 2634
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29375
+ADC1 Channel 1: 2061
+ADC1 Channel 2: 29650
+ADC1 Channel 3: 3111
+ADC2 Channel 0: 1922
+ADC2 Channel 1: 1920
+ADC2 Channel 2: 4576
+ADC2 Channel 3: 2644
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29356
+ADC1 Channel 1: 2061
+ADC1 Channel 2: 29651
+ADC1 Channel 3: 3108
+ADC2 Channel 0: 1920
+ADC2 Channel 1: 1924
+ADC2 Channel 2: 4583
+ADC2 Channel 3: 2640
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29364
+ADC1 Channel 1: 2059
+ADC1 Channel 2: 29644
+ADC1 Channel 3: 3107
+ADC2 Channel 0: 1914
+ADC2 Channel 1: 1925
+ADC2 Channel 2: 4583
+ADC2 Channel 3: 2639
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29361
+ADC1 Channel 1: 2063
+ADC1 Channel 2: 29658
+ADC1 Channel 3: 3101
+ADC2 Channel 0: 1928
+ADC2 Channel 1: 1923
+ADC2 Channel 2: 4583
+ADC2 Channel 3: 2632
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29363
+ADC1 Channel 1: 2063
+ADC1 Channel 2: 29644
+ADC1 Channel 3: 3108
+ADC2 Channel 0: 1933
+ADC2 Channel 1: 1932
+ADC2 Channel 2: 4588
+ADC2 Channel 3: 2651
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29359
+ADC1 Channel 1: 2060
+ADC1 Channel 2: 29645
+ADC1 Channel 3: 3103
+ADC2 Channel 0: 1923
+ADC2 Channel 1: 1927
+ADC2 Channel 2: 4585
+ADC2 Channel 3: 2645
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29368
+ADC1 Channel 1: 2070
+ADC1 Channel 2: 29647
+ADC1 Channel 3: 3117
+ADC2 Channel 0: 1933
+ADC2 Channel 1: 1931
+ADC2 Channel 2: 4589
+ADC2 Channel 3: 2640
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29374
+ADC1 Channel 1: 2065
+ADC1 Channel 2: 29643
+ADC1 Channel 3: 3103
+ADC2 Channel 0: 1936
+ADC2 Channel 1: 1925
+ADC2 Channel 2: 4589
+ADC2 Channel 3: 2650
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29368
+ADC1 Channel 1: 2066
+ADC1 Channel 2: 29649
+ADC1 Channel 3: 3104
+ADC2 Channel 0: 1937
+ADC2 Channel 1: 1926
+ADC2 Channel 2: 4593
+ADC2 Channel 3: 2645
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29369
+ADC1 Channel 1: 2068
+ADC1 Channel 2: 29648
+ADC1 Channel 3: 3118
+ADC2 Channel 0: 1933
+ADC2 Channel 1: 1930
+ADC2 Channel 2: 4591
+ADC2 Channel 3: 2654
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29374
+ADC1 Channel 1: 2067
+ADC1 Channel 2: 29648
+ADC1 Channel 3: 3102
+ADC2 Channel 0: 1927
+ADC2 Channel 1: 1927
+ADC2 Channel 2: 4594
+ADC2 Channel 3: 2652
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29364
+ADC1 Channel 1: 2067
+ADC1 Channel 2: 29647
+ADC1 Channel 3: 3103
+ADC2 Channel 0: 1929
+ADC2 Channel 1: 1929
+ADC2 Channel 2: 4592
+ADC2 Channel 3: 2648
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29363
+ADC1 Channel 1: 2069
+ADC1 Channel 2: 29657
+ADC1 Channel 3: 3111
+ADC2 Channel 0: 1941
+ADC2 Channel 1: 1930
+ADC2 Channel 2: 4596
+ADC2 Channel 3: 2643
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29366
+ADC1 Channel 1: 2069
+ADC1 Channel 2: 29658
+ADC1 Channel 3: 3109
+ADC2 Channel 0: 1936
+ADC2 Channel 1: 1931
+ADC2 Channel 2: 4595
+ADC2 Channel 3: 2654
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29375
+ADC1 Channel 1: 2065
+ADC1 Channel 2: 29654
+ADC1 Channel 3: 3123
+ADC2 Channel 0: 1938
+ADC2 Channel 1: 1926
+ADC2 Channel 2: 4582
+ADC2 Channel 3: 2646
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29372
+ADC1 Channel 1: 2068
+ADC1 Channel 2: 29647
+ADC1 Channel 3: 3112
+ADC2 Channel 0: 1930
+ADC2 Channel 1: 1922
+ADC2 Channel 2: 4589
+ADC2 Channel 3: 2648
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29369
+ADC1 Channel 1: 2066
+ADC1 Channel 2: 29646
+ADC1 Channel 3: 3112
+ADC2 Channel 0: 1928
+ADC2 Channel 1: 1934
+ADC2 Channel 2: 4585
+ADC2 Channel 3: 2642
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29362
+ADC1 Channel 1: 2073
+ADC1 Channel 2: 29651
+ADC1 Channel 3: 3119
+ADC2 Channel 0: 1927
+ADC2 Channel 1: 1932
+ADC2 Channel 2: 4588
+ADC2 Channel 3: 2659
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29371
+ADC1 Channel 1: 2074
+ADC1 Channel 2: 29652
+ADC1 Channel 3: 3110
+ADC2 Channel 0: 1931
+ADC2 Channel 1: 1928
+ADC2 Channel 2: 4587
+ADC2 Channel 3: 2655
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29375
+ADC1 Channel 1: 2068
+ADC1 Channel 2: 29651
+ADC1 Channel 3: 3109
+ADC2 Channel 0: 1928
+ADC2 Channel 1: 1934
+ADC2 Channel 2: 4594
+ADC2 Channel 3: 2665
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29360
+ADC1 Channel 1: 2070
+ADC1 Channel 2: 29655
+ADC1 Channel 3: 3106
+ADC2 Channel 0: 1927
+ADC2 Channel 1: 1926
+ADC2 Channel 2: 4588
+ADC2 Channel 3: 2654
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29375
+ADC1 Channel 1: 2064
+ADC1 Channel 2: 29650
+ADC1 Channel 3: 3096
+ADC2 Channel 0: 1938
+ADC2 Channel 1: 1927
+ADC2 Channel 2: 4586
+ADC2 Channel 3: 2654
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29371
+ADC1 Channel 1: 2069
+ADC1 Channel 2: 29659
+ADC1 Channel 3: 3101
+ADC2 Channel 0: 1947
+ADC2 Channel 1: 1931
+ADC2 Channel 2: 4586
+ADC2 Channel 3: 2654
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29370
+ADC1 Channel 1: 2069
+ADC1 Channel 2: 29651
+ADC1 Channel 3: 3108
+ADC2 Channel 0: 1934
+ADC2 Channel 1: 1936
+ADC2 Channel 2: 4590
+ADC2 Channel 3: 2644
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29375
+ADC1 Channel 1: 2067
+ADC1 Channel 2: 29644
+ADC1 Channel 3: 3099
+ADC2 Channel 0: 1937
+ADC2 Channel 1: 1924
+ADC2 Channel 2: 4591
+ADC2 Channel 3: 2641
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29373
+ADC1 Channel 1: 2064
+ADC1 Channel 2: 29653
+ADC1 Channel 3: 3116
+ADC2 Channel 0: 1919
+ADC2 Channel 1: 1929
+ADC2 Channel 2: 4594
+ADC2 Channel 3: 2649
+Temperature: 29.65539 C
+Humidity: 44.82235 %
+Pressure: 977.3306 hPa
+Gas: 18471 Ohms
+ADC1 Channel 0: 29375
+ADC1 Channel 1: 2068
+ADC1 Channel 2: 29650
+ADC1 Channel 3: 3100
+ADC2 Channel 0: 1933
+ADC2 Channel 1: 1922
+ADC2 Channel 2: 4592
+ADC2 Channel 3: 2668
